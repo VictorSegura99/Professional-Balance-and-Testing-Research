@@ -38,7 +38,10 @@ In order to balance some aspect of our game, it’s correct to ask to our player
 # Bibliography
 
 http://wiki.c2.com/?QualityAssurance
+
 http://wiki.c2.com/?QualityControl
+
 http://wiki.c2.com/?QualityAssuranceIsNotQualityControll
+
 http://www.gamasutra.com/blogs/DanFelder/20151012/251443/Design_101_Balancing_Games.php
 
