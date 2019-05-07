@@ -1,5 +1,5 @@
 ## Difference Between QA and QC
-QA(Quality Assurance)  and QC(Quality Control) are two different things, although QC usually is a part of QA.
+QA(Quality Assurance)  and QC(Quality Control) are two different things, although QC is a part of QA.
 
 QA is the whole proactive process addressed to help our videogames to reach the quality we expect from them. It makes sure we do the right things in the right way.
 QC is the testing processes make when the product is complete(in the case of video games, every build would count), that have the quality we planned and, if it’s not the case, stop the production to fix this problems.
@@ -12,7 +12,7 @@ The difference between QA and QC is largely one of power and control. QC is usua
 
 ## Professional Videogame Balance Methods:
 
-Videogame Balance is obviously very important, but there’s not a flawless way to accomplish this, and lot of times come to designers guessing. To avoid this, there’s methods to try to getting as close as possible to a balanced game.
+Videogame Balance is obviously very important, but there’s not a flawless way to accomplish a perfectly balanced game, and lots of times come to designers guessing. To avoid this, there’s methods to try to getting as close as possible to a balanced game.
 
 **Power curve**
 
