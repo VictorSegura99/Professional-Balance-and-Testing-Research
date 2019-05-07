@@ -32,5 +32,13 @@ To put it on an example: if a weapon doing 300 DPS is overpowered by a lot, don�
 **How our players see the game**
 
 The most powerful tool designers have to balance their game is their proper players. 
-In order to balance some aspect of our game, it’s correct to ask to our players, in our particular case, during the playtests. As the Termi Law says, an average of a lot of not close estimations by different people will result on a very exact estimation of the ideal result, so if we ask a lot of players, even if they don’t have a great knowledge of the game, and do an average of their estimations, we’ll be closer to a perfect estimation of how the perfect balance would be.
+In order to balance some aspect of our game, it’s correct to ask to our players, in our particular case, during the playtests. As the Termi Law says, an average of a lot of not close estimations by different people will result on a very exact estimation of the ideal result, so if we ask a lot of players, even if they don’t have a great knowledge of the game, and do an average of their estimations, we’ll be closer to a perfect estimation of how the perfect balance would be.
+
+
+# Bibliography
+
+http://wiki.c2.com/?QualityAssurance
+http://wiki.c2.com/?QualityControl
+http://wiki.c2.com/?QualityAssuranceIsNotQualityControll
+http://www.gamasutra.com/blogs/DanFelder/20151012/251443/Design_101_Balancing_Games.php
 
