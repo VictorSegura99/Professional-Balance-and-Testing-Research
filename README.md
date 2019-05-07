@@ -45,10 +45,13 @@ _Testers_: they write accurate reports on bugs, and ensure that the game is fun 
 _SDET(Software Development Engineer in Test)_: they test game performance and security. They are usually experts in computer science rather than in video games.
 
 **Testing process:**
+
 Identification: find the bug.
 
 Reporting: the bug is reported to the developers in an accurate report which includes how to reproduce the bug and priority.
+
 Analysis: Developer in charge of the area in which the bug has appeared checks the malfunction.
+
 Verification: the testers check that the bug has been fixed.
 
 **6 Steps:**
