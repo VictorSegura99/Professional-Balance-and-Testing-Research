@@ -116,20 +116,25 @@ Any data you think would be useful regarding the bug, you put it in here. You ca
 
 ## Bibliography
 
-http://wiki.c2.com/?QualityAssurance
+[http://wiki.c2.com/?QualityAssurance](http://wiki.c2.com/?QualityAssurance)
 
-http://wiki.c2.com/?QualityControl
+[http://wiki.c2.com/?QualityAssurance](http://wiki.c2.com/?QualityControl)
 
-http://wiki.c2.com/?QualityAssuranceIsNotQualityControll
+[http://wiki.c2.com/?QualityAssuranceIsNotQualityControll](http://wiki.c2.com/?QualityAssuranceIsNotQualityControll)
 
-http://www.gamasutra.com/blogs/DanFelder/20151012/251443/Design_101_Balancing_Games.php
+[http://wiki.c2.com/?QualityAssuranceIsNotQualityControll](http://www.gamasutra.com/blogs/DanFelder/20151012/251443/Design_101_Balancing_Games.php)
 
 
-https://en.wikipedia.org/wiki/Game_testing
-https://www.testbytes.net/blog/game-testing-tutorial/
-https://www.t-plan.com/game-test-automation/
-https://www.usertesting.com/blog/user-testing-games/
-https://gameanalytics.com/blog/how-to-do-a-game-test.html
+[https://en.wikipedia.org/wiki/Game_testing](https://en.wikipedia.org/wiki/Game_testing)
+
+[https://www.testbytes.net/blog/game-testing-tutorial](https://www.testbytes.net/blog/game-testing-tutorial/)
+
+[https://www.t-plan.com/game-test-automation](https://www.t-plan.com/game-test-automation/)
+
+[https://www.usertesting.com/blog/user-testing-games](https://www.usertesting.com/blog/user-testing-games/)
+
+[https://gameanalytics.com/blog/how-to-do-a-game-test.html](https://gameanalytics.com/blog/how-to-do-a-game-test.html)
+
 
 
 
