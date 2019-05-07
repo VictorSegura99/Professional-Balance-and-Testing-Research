@@ -17,11 +17,9 @@ Videogame Balance is obviously very important, but there’s not a flawless way 
 **Power curve**
 
 This method solves the problem of different elements affecting the same thing.
-In this method, it’s all about have similar effect per investment ratio. This means that the first step would be identify what have to invest the player in our games. (TODO 1?)
+In this method, it’s all about have similar effect per investment ratio. This means that the first step would be identify what have to invest the player in our games.
 After this, we should measure what effect have each element we should consider in order to balance our game. For example, in an action game, could be damage, movement, etc.
 With this, we can make a graphic and see all the different elements and how they scale with the investment. For example, with weapons we can measure DPS(damage per second).
-
-
 
 **Triple Tapping**
 
