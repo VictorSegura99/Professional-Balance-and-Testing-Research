@@ -1,4 +1,4 @@
-﻿We are [Víctor Segura Blanco](https://www.linkedin.com/in/v%C3%ADctor-segura-blanco-297458185/) and Martí LAST NAME AND LINKEDIN, students of the
+﻿We are [Víctor Segura Blanco](https://www.linkedin.com/in/v%C3%ADctor-segura-blanco-297458185/) and [Martí Torras](https://www.linkedin.com/in/mart%C3%AD-torras-640466185/), students of the
 [Bachelor’s Degree in
 Video Games by UPC at CITM](<https://www.citm.upc.edu/ing/estudis/graus-videojocs/>). This content is generated for the second year’s
 subject Project 2, under supervision of lecturer
