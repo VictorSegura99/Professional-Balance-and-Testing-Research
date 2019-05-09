@@ -136,8 +136,6 @@ The word appereance is very important, because for the sake of achieving the bes
 
 There’s not a flawless way to accomplish a perfectly balanced game, so the previous experience and knowledge of the designers play a big role in this. To support and help this assumptions, there’s different useful methods.
 
-![image](https://github.com/VictorSegura99/Professional-Balance-and-Testing-Research/blob/master/docs/Designing-the-learning-curve.png?raw=true)
-
 **Progression Curves**
 
 The core use of this method it's to create graphic curves and compare them in order to see how they interact with each other and see the actual state in every moment.
