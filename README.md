@@ -1,4 +1,4 @@
-﻿We are [Víctor Segura Blanco](https://www.linkedin.com/in/v%C3%ADctor-segura-blanco-297458185/) and Martí LAST NAME AND LINKEDIN, students of the
+﻿We are [Víctor Segura Blanco](https://www.linkedin.com/in/v%C3%ADctor-segura-blanco-297458185/) and [Martí Torras](https://www.linkedin.com/in/mart%C3%AD-torras-640466185/), students of the
 [Bachelor’s Degree in
 Video Games by UPC at CITM](<https://www.citm.upc.edu/ing/estudis/graus-videojocs/>). This content is generated for the second year’s
 subject Project 2, under supervision of lecturer
@@ -129,11 +129,12 @@ Any data you think would be useful regarding the bug, you put it in here. You ca
 ## Professional Videogame Balance Methods:
 
 Videogame Balance is obviously very important, but sometimes define what a balanced game is not easy.
-The best definition for us is "_Game Balance is creating the APPEREANCE of fairness in a game_", by Ian Schreiber, 2017.
-The word appereance is very important, because for the sake of achieving the best experience possible for the player, fairness it's not always the way.
-There’s not a flawless way to accomplish a perfectly balanced game, so the previous experience and knowledge of the designers play a big role in this. To support and help this assumptions, there’s different useful methods.
 
-![image](https://github.com/VictorSegura99/Professional-Balance-and-Testing-Research/blob/master/docs/Designing-the-learning-curve.png?raw=true)
+The best definition for us is "_Game Balance is creating the APPEREANCE of fairness in a game_", by Ian Schreiber, 2017.
+
+The word appereance is very important, because for the sake of achieving the best experience possible for the player, fairness it's not always the way.
+
+There’s not a flawless way to accomplish a perfectly balanced game, so the previous experience and knowledge of the designers play a big role in this. To support and help this assumptions, there’s different useful methods.
 
 **Progression Curves**
 
@@ -146,28 +147,35 @@ In this application, we can see how every effect compares to the others with sim
 For example, in a game with weapons, we could compare them with the Damage Per Second, Damage Per Range, etc.
 The main problem with this application is that it lefts out elements that we should have in mind. This can be fixed comparing lots of graphics for every element, but it's not very efficient.
 
+![image](https://github.com/VictorSegura99/Professional-Balance-and-Testing-Research/blob/master/docs/8d06675dba06c1833488f63a1f8044fd.png?raw=true)
+
+
 The second application is progression curves themselves.
 In this application we see how an specific element evolves over time. This is very useful because you can compare two big elements and clearly see how they interact. Above all, this can help a lot to see the Game Flow when comparing elements that affect this very directly.
 
 For example, if we compare how the player's damage is scaling over time with the health of the enemies, we'll see how great the challenge would be. Or in a case more independent from the player's hability, in an RPG we could see how the money the player obtains compares with the cost of the objects of his level.
 
+
 **Triple Tapping**
 
-The most probable is that on our first iteration, the game will be still very unbalanced, so following the method above, we would re estimate the cost or the power of the element at where it should be, right?
-Actually, you’ll probably keep the element in the wrong state in the same direction. What expert developers advice is to over change the direction to triangulate the actual ideal cost and each iteration be closer.
+This method it's a trying method. The theory behind it consist in establishing margins to work with in order to get closer every iteration to the perfect balance.
+In order to do that, we should consider that when changing a value because it's not balanced, we should change the number in a excessive way, in order to establish a margin in the opposite state.
 
-To put it on an example: if a weapon doing 300 DPS is overpowered by a lot, don’t put the damage per second in 250 if you think it will be correct, because probably will still be overpowered and you’ll not gain much information. Put it on 200 or even 150, where the weapon should be under powered, but now you have completely correct margins to work with.
+To put it on an example: if a weapon doing 300 DPS is overpowered by a lot, don’t put the damage per second in 250 if you think it will be correct, because probably will still be overpowered and you’ll not gain much information. Put it on 200 or even 150, where the weapon should be under powered, but now you have established correct margins to work with.
 
 **Testing and Analytics**
 
 The most powerful tool designers have to balance their game is their proper players. 
-In order to balance some aspect of our game, it’s correct to ask to our players, in our particular case, during the playtests. As the Termi Law says, an average of a lot of not close estimations by different people will result on a very exact estimation of the ideal result, so if we ask a lot of players, even if they don’t have a great knowledge of the game, and do an average of their estimations, we’ll be closer to a perfect estimation of how the perfect balance would be.
+
+Another method is to create variables inside the code that will save in the playtests. After the playtests, we should revise the data collected to see what elements of the game are unbalanced and, in combination with the other methods explained, come to a closer to balanced value.
+
+In order to balance some aspect of our game, it’s correct to ask to our players, in our particular case, during the playtests. Even if players don't have the exact idea of our game or all the correct knowledge to think a correct value. the Termi Law says that an average of a lot of not close estimations by different people will result on a very exact estimation of the ideal result, so if we ask a lot of players,  and do an average of their estimations, we’ll be closer to a perfect estimation of how the perfect balance would be.
 
 ## Bibliography
 
 [http://wiki.c2.com/?QualityAssurance](http://wiki.c2.com/?QualityAssurance)
 
-[http://wiki.c2.com/?QualityAssurance](http://wiki.c2.com/?QualityControl)
+[http://wiki.c2.com/?QualityControl](http://wiki.c2.com/?QualityControl)
 
 [http://wiki.c2.com/?QualityAssuranceIsNotQualityControll](http://wiki.c2.com/?QualityAssuranceIsNotQualityControll)
 
