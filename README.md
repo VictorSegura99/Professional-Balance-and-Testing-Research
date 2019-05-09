@@ -4,6 +4,8 @@ Video Games by UPC at CITM](<https://www.citm.upc.edu/ing/estudis/graus-videojoc
 subject Project 2, under supervision of lecturer
 [Ricard Pillosu](<https://es.linkedin.com/in/ricardpillosu>).
 
+Repository [here](https://github.com/VictorSegura99/Professional-Balance-and-Testing-Research).
+
 
 ## The main problem
 Usually, at low professional levels, QA and testing are pretty chaotic and inefficient processes that could be a lot more useful and productive having a few things in mind.
@@ -197,6 +199,7 @@ In order to balance some aspect of our game, it’s correct to ask to our player
 
 [https://gameanalytics.com/blog/how-to-do-a-game-test.html](https://gameanalytics.com/blog/how-to-do-a-game-test.html)
 
+[Presentation](https://docs.google.com/presentation/d/1KRc1ViFC8YQgpC1uracjJ0TzXFxHMEDsysohiJZIYv0/edit?usp=sharing)
 
 
 
