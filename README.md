@@ -129,8 +129,11 @@ Any data you think would be useful regarding the bug, you put it in here. You ca
 ## Professional Videogame Balance Methods:
 
 Videogame Balance is obviously very important, but sometimes define what a balanced game is not easy.
+
 The best definition for us is "_Game Balance is creating the APPEREANCE of fairness in a game_", by Ian Schreiber, 2017.
+
 The word appereance is very important, because for the sake of achieving the best experience possible for the player, fairness it's not always the way.
+
 There’s not a flawless way to accomplish a perfectly balanced game, so the previous experience and knowledge of the designers play a big role in this. To support and help this assumptions, there’s different useful methods.
 
 ![image](https://github.com/VictorSegura99/Professional-Balance-and-Testing-Research/blob/master/docs/Designing-the-learning-curve.png?raw=true)
@@ -150,6 +153,8 @@ The second application is progression curves themselves.
 In this application we see how an specific element evolves over time. This is very useful because you can compare two big elements and clearly see how they interact. Above all, this can help a lot to see the Game Flow when comparing elements that affect this very directly.
 
 For example, if we compare how the player's damage is scaling over time with the health of the enemies, we'll see how great the challenge would be. Or in a case more independent from the player's hability, in an RPG we could see how the money the player obtains compares with the cost of the objects of his level.
+
+![image](https://github.com/VictorSegura99/Professional-Balance-and-Testing-Research/blob/master/docs/8d06675dba06c1833488f63a1f8044fd.png?raw=true)
 
 **Triple Tapping**
 
