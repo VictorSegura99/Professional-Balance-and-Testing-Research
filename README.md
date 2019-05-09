@@ -150,10 +150,13 @@ It's not recommended to use the same testers in playtests that check the same me
 
 Everyting.
 Do they understand they have to do this thing? How to do this thing? Why even do this thing? Do the controls feel natural when doing this thing? Is it too difficult to do this thing?...
+You can also get any type of metrics.
+
+It is very important to test if the game is fun (in many layers).
 
 **Who organizes the playtest?**
 
-It's a good practice to use people from outside your company to be the coordinators. There are companies which are dedicated to this field, such as hitdetection.
+At early phases of development you can do playtests in your company. But in middle and later phases, it's a good practice to use people from outside your company to be the coordinators. There are companies which are dedicated to this field, such as hitdetection.
 But regarding the organization, there should be a team of experts that think of how to do it. It is also convenient to involve the dev team because they know better than anyone in which way the things that have to be tested should be tested.
 
 **Playtest organization**
@@ -172,8 +175,8 @@ It is important to establish:
 
 -	An observation table which will be used to take notes.
 
+The enviroment should be a quiet and comfortable place.
 It’s a good idea to record the screen, the hands of the tester and or their faces. There are many new technologies which can help you.
-
 
 **Observation table**
 
@@ -213,8 +216,16 @@ They shouldn't be:
 Before the test make sure that the testers understand that it’s the game that’s being tested and not them. Their answers will be anonymous, and they will not offend anyone. Tell them to: just say what they think.
 
 Don’t ask too many questions before the test. Most of them will have the same answer at the end of the test so ask them afterwards.
+It can be good to start writing notes after twenty or thirty minutes because you want them to feel relaxed.
 
-Look for gestures and expressions. If they offer you a solution, don’t write down the solution, ask them why they thought about that solution. Don’t assume things based on what you’ve observed, ask and try to understand why it happened.
+Look for gestures and expressions, this tells a lot. Don't say anything to the tester while they are playing and don't disturb them.
+
+**After the test**
+
+You can do a focus group with many people giving their opinion and you might get some good ideas, but people tend to agree with things that they didn't think a lot about.
+The order in which people are say is important. If they offer you a solution, don’t write down the solution, ask them why they thought about that solution. Don’t assume things based on what you’ve observed, ask and try to understand why it happened. As a developer don't overlook feedback from something that you already thought had to be imroved.
+Focus on what they though was fun and what they thought was not, this are the most important parts and might actually change the core of your game.
+
 ## Professional Videogame Balance Methods:
 
 Videogame Balance is obviously very important, but sometimes define what a balanced game is not easy.
