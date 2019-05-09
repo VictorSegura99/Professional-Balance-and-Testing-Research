@@ -169,7 +169,11 @@ The most powerful tool designers have to balance their game is their proper play
 
 Another method is to create variables inside the code that will save in the playtests. After the playtests, we should revise the data collected to see what elements of the game are unbalanced and, in combination with the other methods explained, come to a closer to balanced value.
 
+![image](https://github.com/VictorSegura99/Professional-Balance-and-Testing-Research/blob/master/docs/top-7-data-analytics-tools-2019.jpg?raw=true)
+
 In order to balance some aspect of our game, it’s correct to ask to our players, in our particular case, during the playtests. Even if players don't have the exact idea of our game or all the correct knowledge to think a correct value. the Termi Law says that an average of a lot of not close estimations by different people will result on a very exact estimation of the ideal result, so if we ask a lot of players,  and do an average of their estimations, we’ll be closer to a perfect estimation of how the perfect balance would be.
+
+![image](https://github.com/VictorSegura99/Professional-Balance-and-Testing-Research/blob/master/docs/game_design_grad-1-1024x683.jpg?raw=true)
 
 ## Bibliography
 
