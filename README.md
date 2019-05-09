@@ -22,7 +22,7 @@ So, the difference is clear, QA is centered in the process to assure the quality
 
 The difference between QA and QC is largely one of power and control. QC is usually as service provided to development and is responsible for providing that service. QA expects development to provide services to it and is not responsible for any result.
 
-## How do companies organize testing?
+## How do companies organize QA testing?
 
 **Roles:**
 
@@ -128,6 +128,93 @@ A comprehensive and easy to understand guide on how to replicate the bug.
 Part 4: Extra information
 Any data you think would be useful regarding the bug, you put it in here. You can also write your opinion on how to solve the issue.
 
+## How do companies organize playtests?
+
+**What is playtesting?**
+
+Playtesting focuses on the challenging the usability of the game.
+
+In playtesting there are two major roles: the coordinators (who conduct the playtest), and the testers (who actually play the game).
+In QA testing, the testers are a group of professionals who are employed by the company that produces the videogame to find bugs and test if the game runs well. The usually do testing as a full time job and spend numerous hours everyday in the company doing their job.
+On the other hand, in playtesting, the only professionals are the coordinators. Testers are usually people from outside the videogame industry who agree on testing the game in one or a few relatively short sessions. Their aim is to provide feedback on the usability of the game.
+
+**When do you do a playtesting session?**
+
+It's never too early to test your game. As soon as you have something that is playable, you can organize a session. Obviously you should playtest more at the later stages of the game.
+You don't want to realize a game mechanic doesn't work too late.
+
+When you get feedback from a playtest and you change stuff in the game because of that, it's a good idea to organize a new playtesting session, to check the changes.
+It's not recommended to use the same testers in playtests that check the same mechanic.
+
+**What should you test?**
+
+Everyting.
+Do they understand they have to do this thing? How to do this thing? Why even do this thing? Do the controls feel natural when doing this thing? Is it too difficult to do this thing?...
+
+**Who organizes the playtest?**
+
+It's a good practice to use people from outside your company to be the coordinators. There are companies which are dedicated to this field, such as hitdetection.
+But regarding the organization, there should be a team of experts that think of how to do it. It is also convenient to involve the dev team because they know better than anyone in which way the things that have to be tested are tested.
+
+**Playtest organization**
+
+It is important to establish:
+
+-	When is the test happening?
+
+-	On which version?
+
+-	On which target?
+
+-	What is the test goal?
+
+-	What is the specific process of the test? (every step)
+
+-	An observation table which will be used to take notes.
+
+It’s a good idea to record the screen, their hands and or their face. There are many new technologies which can help you.
+
+
+**Observation table**
+
+Its impossible to remember everything that happened during the test, so you must take notes. What did the testers say, do…? Try to be schematic, don’t write long reports.
+One person taking notes for every two or three testers would be ideal.
+
+The observation table should contain:
+
+-	Date of the test.
+
+-	Number attributed to the tester.
+
+-	Version of the game tested.
+
+-	Predefined boxes to fill depending on what it is observed.
+
+-	Observations and notes.
+
+**Choosing the testers**
+
+Testers should be your target audience, but there should be diversity (not the same age, same gender and same hobbies). Always try to make a playtest with 5 or more persons.
+
+They shouldn't be:
+
+-	Your friends.
+
+-	Your family.
+
+-	Other developers.
+
+-	Your fanbase.
+
+-	People at exhibitions/game shows.
+
+**Dealing with the testers**
+
+Before the test make sure that the testers understands that it’s the game that’s being tested and not them. Their answers will be anonymous, and they will not offend anyone. Tell them to: just say what they think.
+
+Don’t ask too many questions before the test. Most of them will have the same answer at the end of the test so ask them afterwards.
+
+Look for gestures and expressions. If they offer you a solution, don’t write down the solution, ask them why they thought about that solution. Don’t assume things based on what you’ve observed, ask and try to understand why it happened.
 ## Professional Videogame Balance Methods:
 
 Videogame Balance is obviously very important, but sometimes define what a balanced game is not easy.
