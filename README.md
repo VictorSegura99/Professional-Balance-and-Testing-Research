@@ -158,15 +158,18 @@ For example, if we compare how the player's damage is scaling over time with the
 
 **Triple Tapping**
 
-The most probable is that on our first iteration, the game will be still very unbalanced, so following the method above, we would re estimate the cost or the power of the element at where it should be, right?
-Actually, you’ll probably keep the element in the wrong state in the same direction. What expert developers advice is to over change the direction to triangulate the actual ideal cost and each iteration be closer.
+This method it's a trying method. The theory behind it consist in establishing margins to work with in order to get closer every iteration to the perfect balance.
+In order to do that, we should consider that when changing a value because it's not balanced, we should change the number in a excessive way, in order to establish a margin in the opposite state.
 
-To put it on an example: if a weapon doing 300 DPS is overpowered by a lot, don’t put the damage per second in 250 if you think it will be correct, because probably will still be overpowered and you’ll not gain much information. Put it on 200 or even 150, where the weapon should be under powered, but now you have completely correct margins to work with.
+To put it on an example: if a weapon doing 300 DPS is overpowered by a lot, don’t put the damage per second in 250 if you think it will be correct, because probably will still be overpowered and you’ll not gain much information. Put it on 200 or even 150, where the weapon should be under powered, but now you have established correct margins to work with.
 
 **Testing and Analytics**
 
 The most powerful tool designers have to balance their game is their proper players. 
-In order to balance some aspect of our game, it’s correct to ask to our players, in our particular case, during the playtests. As the Termi Law says, an average of a lot of not close estimations by different people will result on a very exact estimation of the ideal result, so if we ask a lot of players, even if they don’t have a great knowledge of the game, and do an average of their estimations, we’ll be closer to a perfect estimation of how the perfect balance would be.
+
+Another method is to create variables inside the code that will save in the playtests. After the playtests, we should revise the data collected to see what elements of the game are unbalanced and, in combination with the other methods explained, come to a closer to balanced value.
+
+In order to balance some aspect of our game, it’s correct to ask to our players, in our particular case, during the playtests. Even if players don't have the exact idea of our game or all the correct knowledge to think a correct value. the Termi Law says that an average of a lot of not close estimations by different people will result on a very exact estimation of the ideal result, so if we ask a lot of players,  and do an average of their estimations, we’ll be closer to a perfect estimation of how the perfect balance would be.
 
 ## Bibliography
 
