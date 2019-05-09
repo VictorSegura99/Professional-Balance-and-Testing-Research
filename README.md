@@ -172,7 +172,7 @@ In order to balance some aspect of our game, it’s correct to ask to our player
 
 [http://wiki.c2.com/?QualityAssurance](http://wiki.c2.com/?QualityAssurance)
 
-[http://wiki.c2.com/?QualityAssurance](http://wiki.c2.com/?QualityControl)
+[http://wiki.c2.com/?QualityControl](http://wiki.c2.com/?QualityControl)
 
 [http://wiki.c2.com/?QualityAssuranceIsNotQualityControll](http://wiki.c2.com/?QualityAssuranceIsNotQualityControll)
 
