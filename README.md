@@ -18,7 +18,7 @@ QC is the testing processes make when the product is complete(in the case of vid
 
 So, the difference is clear, QA is centered in the process to assure the quality, while QC is centered in control that the quality it’s what we aimed.
 
-![image](https://github.com/VictorSegura99/Professional-Balance-and-Testing-Research/blob/master/docs/QA_QC.jpg?raw=true)
+![image](https://github.com/VictorSegura99/Professional-Videogame-Testing-and-Balancing/blob/master/docs/QA_QC.jpg?raw=true)
 
 The difference between QA and QC is largely one of power and control. QC is usually as service provided to development and is responsible for providing that service. QA expects development to provide services to it and is not responsible for any result.
 
@@ -236,7 +236,7 @@ In this application, we can see how every effect compares to the others with sim
 For example, in a game with weapons, we could compare them with the Damage Per Second, Damage Per Range, etc.
 The main problem with this application is that it lefts out elements that we should have in mind. This can be fixed comparing lots of graphics for every element, but it's not very efficient.
 
-![image](https://github.com/VictorSegura99/Professional-Balance-and-Testing-Research/blob/master/docs/8d06675dba06c1833488f63a1f8044fd.png?raw=true)
+![image](https://github.com/VictorSegura99/Professional-Videogame-Testing-and-Balancing/blob/master/docs/8d06675dba06c1833488f63a1f8044fd.png?raw=true)
 
 
 The second application is progression curves themselves.
@@ -258,11 +258,11 @@ The most powerful tool designers have to balance their game is their proper play
 
 Another method is to create variables inside the code that will save in the playtests. After the playtests, we should revise the data collected to see what elements of the game are unbalanced and, in combination with the other methods explained, come to a closer to balanced value.
 
-![image](https://github.com/VictorSegura99/Professional-Balance-and-Testing-Research/blob/master/docs/top-7-data-analytics-tools-2019.jpg?raw=true)
+![image](https://github.com/VictorSegura99/Professional-Videogame-Testing-and-Balancing/blob/master/docs/top-7-data-analytics-tools-2019.jpg?raw=true)
 
 In order to balance some aspect of our game, it’s correct to ask to our players, in our particular case, during the playtests. Even if players don't have the exact idea of our game or all the correct knowledge to think a correct value. the Termi Law says that an average of a lot of not close estimations by different people will result on a very exact estimation of the ideal result, so if we ask a lot of players,  and do an average of their estimations, we’ll be closer to a perfect estimation of how the perfect balance would be.
 
-![image](https://github.com/VictorSegura99/Professional-Balance-and-Testing-Research/blob/master/docs/game_design_grad-1-1024x683.jpg?raw=true)
+![image](https://github.com/VictorSegura99/Professional-Videogame-Testing-and-Balancing/blob/master/docs/game_design_grad-1-1024x683.jpg?raw=true)
 
 ## Bibliography
 
