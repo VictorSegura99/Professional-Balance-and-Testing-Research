@@ -4,7 +4,7 @@ Video Games by UPC at CITM](<https://www.citm.upc.edu/ing/estudis/graus-videojoc
 subject Project 2, under supervision of lecturer
 [Ricard Pillosu](<https://es.linkedin.com/in/ricardpillosu>).
 
-Repository [here](https://github.com/VictorSegura99/Professional-Balance-and-Testing-Research).
+Repository [here](https://github.com/VictorSegura99/Professional-Videogame-Testing-and-Balancing).
 
 
 ## The main problem
