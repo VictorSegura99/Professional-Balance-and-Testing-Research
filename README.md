@@ -1,4 +1,4 @@
-We are [Víctor Segura Blanco](https://www.linkedin.com/in/v%C3%ADctor-segura-blanco-297458185/) and Martí LAST NAME AND LINKEDIN, students of the
+﻿We are [Víctor Segura Blanco](https://www.linkedin.com/in/v%C3%ADctor-segura-blanco-297458185/) and Martí LAST NAME AND LINKEDIN, students of the
 [Bachelor’s Degree in
 Video Games by UPC at CITM](<https://www.citm.upc.edu/ing/estudis/graus-videojocs/>). This content is generated for the second year’s
 subject Project 2, under supervision of lecturer
@@ -84,6 +84,28 @@ Test Case: Establish what your are going to test and how. It should have a descr
 Test Suite: a test suite or checklist is a collection of Test Cases set up together on account of a particular objective. This objective needs to do with approval of the game’s localization (translation of content and voice), physic engine, and so forth.
 
 Aptitudes, Experience and Thoroughness: To be a committed game tester, one needs to utilize these aptitudes legitimately, have the capacity to write relating test cases, sort out steady test suites and make precisely clear bug records.
+
+**What do game testers do?**
+
+Figure out how to be monotonous and also startling. Fundamentally, you’re attempting to break the game.
+
+Test distinctive adaptions of the games including console and computer versions if accessible.
+
+Focus on specific territories of the game and attempt each probability available.
+
+Play games utilizing distinctive settings and alternatives if accessible.
+
+Check for grammatical errors, spelling mistakes, and language.
+
+Proof some other documentation with the game including manuals, directions, and different booklets.
+
+Report any error code that may pop up as well as reporting them to bug tracking system.
+
+Comprehend the contrast between revealing a bug and reporting a component.
+
+Play and test the game over and over again in various ways and conditions.
+
+Analyze new versions of the game and repeat earlier bugs to check whether they have been settled.
 
 **Types of testing:**
 
