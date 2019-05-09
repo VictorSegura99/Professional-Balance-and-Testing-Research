@@ -275,6 +275,16 @@ In order to balance some aspect of our game, it’s correct to ask to our player
 
 ![image](https://github.com/VictorSegura99/Professional-Videogame-Testing-and-Balancing/blob/master/docs/game_design_grad-1-1024x683.jpg?raw=true)
 
+## Classroom Playtest
+
+For the first TODO every group will have to decide some main elements to test in our builds and give them to the coordinator of our videogame test.
+
+The second TODO will be do the playtest. The coordinators will write down the observations of the elemenets given by the developers of the videogames being tested.
+
+The third TODO will be answering this [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScPkmSNP6Bk4Iyuxg7Puzio3CluGMidHubeajBtRo8G0d4yZg/viewform?usp=sf_link).
+
+For the last TODO, each group will do a **Focus Group** about their thoughs of the game and the coordinator will write down their observations.
+
 ## Bibliography
 
 [http://wiki.c2.com/?QualityAssurance](http://wiki.c2.com/?QualityAssurance)
