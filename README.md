@@ -154,7 +154,7 @@ Any data you think would be useful regarding the bug, you put it in here. You ca
 
 [http://wiki.c2.com/?QualityAssuranceIsNotQualityControll](http://wiki.c2.com/?QualityAssuranceIsNotQualityControll)
 
-[http://wiki.c2.com/?QualityAssuranceIsNotQualityControll](http://www.gamasutra.com/blogs/DanFelder/20151012/251443/Design_101_Balancing_Games.php)
+[http://www.gamasutra.com/blogs/DanFelder/20151012/251443/Design_101_Balancing_Games.php](http://www.gamasutra.com/blogs/DanFelder/20151012/251443/Design_101_Balancing_Games.php)
 
 
 [https://en.wikipedia.org/wiki/Game_testing](https://en.wikipedia.org/wiki/Game_testing)
