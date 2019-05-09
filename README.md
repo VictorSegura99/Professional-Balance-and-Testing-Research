@@ -21,6 +21,8 @@ The difference between QA and QC is largely one of power and control. QC is usua
 
 Videogame Balance is obviously very important, but there’s not a flawless way to accomplish a perfectly balanced game, and lots of times come to designers guessing. To avoid this, there’s methods to try to getting as close as possible to a balanced game.
 
+![image](https://github.com/VictorSegura99/Professional-Balance-and-Testing-Research/blob/master/docs/Designing-the-learning-curve.png?raw=true)
+
 **Power curve**
 
 This method solves the problem of different elements affecting the same thing.
