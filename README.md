@@ -128,24 +128,37 @@ Any data you think would be useful regarding the bug, you put it in here. You ca
 
 ## Professional Videogame Balance Methods:
 
-Videogame Balance is obviously very important, but there’s not a flawless way to accomplish a perfectly balanced game, and lots of times come to designers guessing. To avoid this, there’s methods to try to getting as close as possible to a balanced game.
+Videogame Balance is obviously very important, but sometimes define what a balanced game is not easy.
+The best definition for us is "_Game Balance is creating the APPEREANCE of fairness in a game_", by Ian Schreiber, 2017.
+The word appereance is very important, because for the sake of achieving the best experience possible for the player, fairness it's not always the way.
+There’s not a flawless way to accomplish a perfectly balanced game, so the previous experience and knowledge of the designers play a big role in this. To support and help this assumptions, there’s different useful methods.
 
 ![image](https://github.com/VictorSegura99/Professional-Balance-and-Testing-Research/blob/master/docs/Designing-the-learning-curve.png?raw=true)
 
-**Power curve**
+**Progression Curves**
 
-This method solves the problem of different elements affecting the same thing.
-In this method, it’s all about have similar effect per investment ratio. This means that the first step would be identify what have to invest the player in our games.
-After this, we should measure what effect have each element we should consider in order to balance our game. For example, in an action game, could be damage, movement, etc.
-With this, we can make a graphic and see all the different elements and how they scale with the investment. For example, with weapons we can measure DPS(damage per second).
+The core use of this method it's to create graphic curves and compare them in order to see how they interact with each other and see the actual state in every moment.
+This method is very wide and have lots of applications, so we are going to explain the more important ones.
+
+The first application is Power Curves.
+In this application, we can see how every effect compares to the others with similar investment. It's very useful because we can see clearly if something has more great effect per investment ratio.
+
+For example, in a game with weapons, we could compare them with the Damage Per Second, Damage Per Range, etc.
+The main problem with this application is that it lefts out elements that we should have in mind. This can be fixed comparing lots of graphics for every element, but it's not very efficient.
+
+The second application is progression curves themselves.
+In this application we see how an specific element evolves over time. This is very useful because you can compare two big elements and clearly see how they interact. Above all, this can help a lot to see the Game Flow when comparing elements that affect this very directly.
+
+For example, if we compare how the player's damage is scaling over time with the health of the enemies, we'll see how great the challenge would be. Or in a case more independent from the player's hability, in an RPG we could see how the money the player obtains compares with the cost of the objects of his level.
 
 **Triple Tapping**
 
 The most probable is that on our first iteration, the game will be still very unbalanced, so following the method above, we would re estimate the cost or the power of the element at where it should be, right?
 Actually, you’ll probably keep the element in the wrong state in the same direction. What expert developers advice is to over change the direction to triangulate the actual ideal cost and each iteration be closer.
+
 To put it on an example: if a weapon doing 300 DPS is overpowered by a lot, don’t put the damage per second in 250 if you think it will be correct, because probably will still be overpowered and you’ll not gain much information. Put it on 200 or even 150, where the weapon should be under powered, but now you have completely correct margins to work with.
 
-**How our players see the game**
+**Testing and Analytics**
 
 The most powerful tool designers have to balance their game is their proper players. 
 In order to balance some aspect of our game, it’s correct to ask to our players, in our particular case, during the playtests. As the Termi Law says, an average of a lot of not close estimations by different people will result on a very exact estimation of the ideal result, so if we ask a lot of players, even if they don’t have a great knowledge of the game, and do an average of their estimations, we’ll be closer to a perfect estimation of how the perfect balance would be.
@@ -160,6 +173,7 @@ In order to balance some aspect of our game, it’s correct to ask to our player
 
 [http://www.gamasutra.com/blogs/DanFelder/20151012/251443/Design_101_Balancing_Games.php](http://www.gamasutra.com/blogs/DanFelder/20151012/251443/Design_101_Balancing_Games.php)
 
+[A Course About Game Balance](https://www.youtube.com/watch?v=tR-9oXiytsk&ab_channel=GDC)
 
 [https://en.wikipedia.org/wiki/Game_testing](https://en.wikipedia.org/wiki/Game_testing)
 
