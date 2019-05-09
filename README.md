@@ -135,13 +135,13 @@ Any data you think would be useful regarding the bug, you put it in here. You ca
 Playtesting focuses on the challenging the usability of the game.
 
 In playtesting there are two major roles: the coordinators (who conduct the playtest), and the testers (who actually play the game).
-In QA testing, the testers are a group of professionals who are employed by the company that produces the videogame to find bugs and test if the game runs well. The usually do testing as a full time job and spend numerous hours everyday in the company doing their job.
-On the other hand, in playtesting, the only professionals are the coordinators. Testers are usually people from outside the videogame industry who agree on testing the game in one or a few relatively short sessions. Their aim is to provide feedback on the usability of the game.
+In QA testing, the testers are a group of professionals who are employed by the company that produces the videogame to find bugs and test if the game runs well. They usually do testing as a full time job and spend numerous hours everyday in the company working on it.
+On the other hand, in playtesting, the only professionals are the coordinators. Testers are usually people from outside the videogame industry who agree to test the game in one or a few relatively short sessions. Their aim is to provide feedback on the usability of the game.
 
 **When do you do a playtesting session?**
 
 It's never too early to test your game. As soon as you have something that is playable, you can organize a session. Obviously you should playtest more at the later stages of the game.
-You don't want to realize a game mechanic doesn't work too late.
+But you don't want to realize a game mechanic doesn't work too late.
 
 When you get feedback from a playtest and you change stuff in the game because of that, it's a good idea to organize a new playtesting session, to check the changes.
 It's not recommended to use the same testers in playtests that check the same mechanic.
@@ -154,7 +154,7 @@ Do they understand they have to do this thing? How to do this thing? Why even do
 **Who organizes the playtest?**
 
 It's a good practice to use people from outside your company to be the coordinators. There are companies which are dedicated to this field, such as hitdetection.
-But regarding the organization, there should be a team of experts that think of how to do it. It is also convenient to involve the dev team because they know better than anyone in which way the things that have to be tested are tested.
+But regarding the organization, there should be a team of experts that think of how to do it. It is also convenient to involve the dev team because they know better than anyone in which way the things that have to be tested should be tested.
 
 **Playtest organization**
 
@@ -172,7 +172,7 @@ It is important to establish:
 
 -	An observation table which will be used to take notes.
 
-It’s a good idea to record the screen, their hands and or their face. There are many new technologies which can help you.
+It’s a good idea to record the screen, the hands of the tester and or their faces. There are many new technologies which can help you.
 
 
 **Observation table**
@@ -194,7 +194,7 @@ The observation table should contain:
 
 **Choosing the testers**
 
-Testers should be your target audience, but there should be diversity (not the same age, same gender and same hobbies). Always try to make a playtest with 5 or more persons.
+Testers should be your target audience, but there should also be diversity (not the same age, same gender and same hobbies). Always try to make a playtest with 5 or more persons.
 
 They shouldn't be:
 
@@ -210,7 +210,7 @@ They shouldn't be:
 
 **Dealing with the testers**
 
-Before the test make sure that the testers understands that it’s the game that’s being tested and not them. Their answers will be anonymous, and they will not offend anyone. Tell them to: just say what they think.
+Before the test make sure that the testers understand that it’s the game that’s being tested and not them. Their answers will be anonymous, and they will not offend anyone. Tell them to: just say what they think.
 
 Don’t ask too many questions before the test. Most of them will have the same answer at the end of the test so ask them afterwards.
 
