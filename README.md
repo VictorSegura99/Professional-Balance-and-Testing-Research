@@ -147,12 +147,14 @@ In this application, we can see how every effect compares to the others with sim
 For example, in a game with weapons, we could compare them with the Damage Per Second, Damage Per Range, etc.
 The main problem with this application is that it lefts out elements that we should have in mind. This can be fixed comparing lots of graphics for every element, but it's not very efficient.
 
+![image](https://github.com/VictorSegura99/Professional-Balance-and-Testing-Research/blob/master/docs/8d06675dba06c1833488f63a1f8044fd.png?raw=true)
+
+
 The second application is progression curves themselves.
 In this application we see how an specific element evolves over time. This is very useful because you can compare two big elements and clearly see how they interact. Above all, this can help a lot to see the Game Flow when comparing elements that affect this very directly.
 
 For example, if we compare how the player's damage is scaling over time with the health of the enemies, we'll see how great the challenge would be. Or in a case more independent from the player's hability, in an RPG we could see how the money the player obtains compares with the cost of the objects of his level.
 
-![image](https://github.com/VictorSegura99/Professional-Balance-and-Testing-Research/blob/master/docs/8d06675dba06c1833488f63a1f8044fd.png?raw=true)
 
 **Triple Tapping**
 
