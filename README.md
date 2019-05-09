@@ -5,6 +5,9 @@ subject Project 2, under supervision of lecturer
 [Ricard Pillosu](<https://es.linkedin.com/in/ricardpillosu>).
 
 
+## The main problem
+Usually, at low professional levels, QA and testing are pretty chaotic and inefficient processes that could be a lot more useful and productive having a few things in mind.
+
 ## Difference Between QA and QC
 QA(Quality Assurance)  and QC(Quality Control) are two different things, although QC is a part of QA.
 
