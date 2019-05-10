@@ -230,6 +230,12 @@ You can do a focus group with many people giving their opinion and you might get
 The order in which people are say is important. If they offer you a solution, don’t write down the solution, ask them why they thought about that solution. Don’t assume things based on what you’ve observed, ask and try to understand why it happened. As a developer don't overlook feedback from something that you already thought had to be imroved.
 Focus on what they though was fun and what they thought was not, this are the most important parts and might actually change the core of your game.
 
+## External Consultants
+
+There's some external companies that work with developers from the begin of a videogame development helping them to achieve a better game. 
+
+The most famous one is HitDetection, that is formed from former developers and videogame jounalists. In 2011, 5 of the top 10 publishers were their clients.
+
 ## Professional Videogame Balance Methods:
 
 Videogame Balance is obviously very important, but sometimes define what a balanced game is not easy.
