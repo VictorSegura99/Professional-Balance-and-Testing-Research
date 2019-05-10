@@ -138,6 +138,8 @@ In playtesting there are two major roles: the coordinators (who conduct the play
 In QA testing, the testers are a group of professionals who are employed by the company that produces the videogame to find bugs and test if the game runs well. They usually do testing as a full time job and spend numerous hours everyday in the company working on it.
 On the other hand, in playtesting, the only professionals are the coordinators. Testers are usually people from outside the videogame industry who agree to test the game in one or a few relatively short sessions. Their aim is to provide feedback on the usability of the game.
 
+![image](https://github.com/VictorSegura99/Professional-Videogame-Testing-and-Balancing/blob/master/docs/two_guys.png?raw=true)
+
 **When do you do a playtesting session?**
 
 It's never too early to test your game. As soon as you have something that is playable, you can organize a session. Obviously you should playtest more at the later stages of the game.
@@ -162,6 +164,8 @@ But regarding the organization, there should be a team of experts that think of 
 **Playtest organization**
 
 It is important to establish:
+
+![image](https://github.com/VictorSegura99/Professional-Videogame-Testing-and-Balancing/blob/master/docs/organization.png?raw=true)
 
 -	When is the test happening?
 
