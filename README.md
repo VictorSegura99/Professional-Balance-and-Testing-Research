@@ -158,7 +158,7 @@ It is very important to test if the game is fun (in many layers).
 
 **Who organizes the playtest?**
 
-At early phases of development you can do playtests in your company. But in middle and later phases, it's a good practice to use people from outside your company to be the coordinators. There are companies which are dedicated to this field, such as hitdetection.
+At early phases of development you can do playtests in your company. But in middle and later phases, it's a good practice to use people from outside your company to be the coordinators. There are companies which are dedicated to this field.
 But regarding the organization, there should be a team of experts that think of how to do it. It is also convenient to involve the dev team because they know better than anyone in which way the things that have to be tested should be tested.
 
 **Playtest organization**
