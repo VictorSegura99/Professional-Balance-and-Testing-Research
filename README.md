@@ -236,6 +236,9 @@ There's some external companies that work with developers from the begin of a vi
 
 The most famous one is HitDetection, that is formed from former developers and videogame jounalists. In 2011, 5 of the top 10 publishers were their clients.
 
+![image](https://github.com/VictorSegura99/Professional-Videogame-Testing-and-Balancing/blob/master/docs/Hitdetection.png?raw=true)
+
+
 ## Professional Videogame Balance Methods:
 
 Videogame Balance is obviously very important, but sometimes define what a balanced game is not easy.
